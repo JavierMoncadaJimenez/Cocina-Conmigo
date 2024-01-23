@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "496296466405",
+    "firebase_url": "https://cocinaconmigo-86fa3.firebaseio.com",
+    "project_id": "cocinaconmigo-86fa3",
+    "storage_bucket": "cocinaconmigo-86fa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496296466405:android:5b7358405558a3bc",
+        "android_client_info": {
+          "package_name": "com.javi.cocinaconmigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496296466405-85om666i93ub0bsqv7n0ng0qmihnno22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.javi.cocinaconmigo",
+            "certificate_hash": "f40dc80ec15ac9efaccfe7135df9af1b4fc3c2f2"
+          }
+        },
+        {
+          "client_id": "496296466405-u2p7e1h5fnfrk05ojhbpdkmm27rrk3ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA25x4zy7TGhiJ56GPN4-eoDMUWL8qLPrE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496296466405-u2p7e1h5fnfrk05ojhbpdkmm27rrk3ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
